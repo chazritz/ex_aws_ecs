@@ -1,6 +1,5 @@
-# ExAws.ECS
-
-Service module for https://github.com/ex-aws/ex_aws
+# ExAws.ECS Service module for https://github.com/ex-aws/ex_aws
+Testing first commmit
 
 ## Installation
 
